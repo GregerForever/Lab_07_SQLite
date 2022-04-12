@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Работа с базами данных</string>
+    <string name="ins">Insert</string>
+    <string name="rep">Replace</string>
+    <string name="sel">Select</string>
+    <string name="del">Delete</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+</resources>
